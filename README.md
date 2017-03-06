@@ -1,2 +1,2 @@
 # hello-repository
-just for traiing
+just for training
